@@ -208,7 +208,7 @@
         <?php print '<img src="'.base_path() . path_to_theme() .'/img/vacation-rentals/vacation-rentals-management-software.png" alt="vacation rental management software">'; ?>
         <h3> Currently Under Development...<div> Subscribe to <span>Newsletter</span> and get notified  </div></h3>
     </div>
-    <script type="text/javascript" src="http://kapasoft.com/repos/backbone/newsletter/main/newsletter.min.js?ver=1"></script>
+    <script type="text/javascript" src="http://kapasoft.com/repos/backbone/newsletter/0.0.2/newsletter-0.0.2.min.js?ver=1"></script>
     <div class="news2">
         <?php print '<img src="'.base_path() . path_to_theme() .'/img/vacation-rentals/owners-vacation-rentals.png" alt="owners vacation rentals">'; ?>
         <form id="app-newsletter" >
